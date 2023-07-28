@@ -1,0 +1,91 @@
+<html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interior Decorator</title>
+    <style>
+        /* Add your custom CSS styles here */
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+        }
+        nav {
+            background-color: #444;
+            padding: 0.5rem;
+        }
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+        }
+        nav li {
+            margin: 0 0.5rem;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 0.5rem;
+        }
+        section {
+            padding: 2rem;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1> New Kabir Interior Decorator</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    <section id="home">
+        <h2>Welcome to New Kabir Interior Decorator</h2>
+        <p>Transform your living spaces with our expert interior decorating services.</p>
+    </section>
+    <section id="about">
+        <h2>About Us</h2>
+        <p>We are a team of passionate interior decorators dedicated to creating beautiful and functional spaces for our clients.</p>
+    </section>
+    <section id="services">
+        <h2>Our Services</h2>
+        <ul>
+            <li>Residential Interior Design</li>
+            <li>Commercial Interior Design</li>
+            <li>Color Consultation</li>
+            <li>Furniture Selection</li>
+            <li>Space Planning</li>
+        </ul>
+    </section>
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>For inquiries or to schedule a consultation, please email us at <a href="mailto:info@interiordecorator.com">info@newkabirintyahoomail.com</a> or call us at <a href="tel:+91 9855521204">+91 9646153871</a>.</p>
+    </section>
+    <footer>
+        <p>&copy; 2023 New Kabir Interior Decorator. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
+
